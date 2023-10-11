@@ -43,7 +43,7 @@ public class Metodos {
 
         }
 
-        public void gravarCliente(Cliente clinte){}
+        public void gravarCliente(Cliente cliente){}
         //ou
         public void gravar(Cliente cliente){}
 
