@@ -23,7 +23,7 @@ public class Metodos {
         return divisor;}
 
         //Este método não pode ser visto por outra classes no private
-        private void metodoPrivado(){}
+        //private void metodoPrivado(){}
         
         //alguns equívocos estruturais
         public void validar(){
